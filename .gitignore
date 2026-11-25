@@ -1,0 +1,25 @@
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Java / Maven
+target/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Personal data
+data/raw/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ОС
+.DS_Store
+Thumbs.db
